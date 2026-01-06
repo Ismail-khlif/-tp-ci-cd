@@ -27,7 +27,7 @@ jobs:
         with:
           args: >
             -Dsonar.organization=ismail-khlif
-            -Dsonar.projectKey=ismail-khlif_-tp-ci-cd
+            -Dsonar.projectKey=Ismail-khlif_-tp-ci-cd
             -Dsonar.sources=.
 
   deploy:
